@@ -16,7 +16,8 @@
   <img align="center" alt="Jonatas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="right" alt="Jonatas-pic" height="150" style="border-radius:50px;" src="https://avatars.githubusercontent.com/u/44883581?v=4?width=676&height=676">
 </div>
-    ##
+  
+  ##
  
 <div> 
   <a href="https://instagram.com/jonatas_joao" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
