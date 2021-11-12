@@ -28,7 +28,7 @@
  
 </div>
 
-- 🔭 I’m currently working at BTG Pactual
+- 🔭 I’m currently working at MC1 - Win The Market
 - 🌱 I’m currently learning ReactJS
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I do metal screams
