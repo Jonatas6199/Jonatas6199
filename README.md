@@ -28,7 +28,7 @@
  
 </div>
 
-- 🔭 I’m currently working at Simpli
+- 🔭 I’m currently working at Keeggo
 - 🌱 I’m currently learning ReactJS
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I do metal screams
