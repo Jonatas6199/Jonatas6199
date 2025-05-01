@@ -28,8 +28,8 @@
  
 </div>
 
-- 🔭 I’m currently working at Keeggo
-- 🌱 I’m currently learning ReactJS
+- 🔭 I’m currently working at SOS Docs
+- 🌱 I’m currently learning Java
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I do metal screams
 
